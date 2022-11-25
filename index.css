@@ -1,0 +1,308 @@
+body {
+    background-color: #f8f9fa;
+}
+a {
+    color: inherit;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+
+
+/* Navbar */
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0% 1% 0% 1%;
+}
+
+.li1 {
+    margin-left: 190%;
+}
+
+#name1 {
+    color: red;
+    font-family: 'Kaushan Script', cursive;
+    /* font-family:; */
+}
+
+/* Introduction */
+
+.introduction {
+    margin-top: 8%;
+}
+
+.myworld {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.position {
+    font-size: xxx-large;
+    font-weight: bolder;
+    margin-bottom: 15%;
+}
+
+#name2 {
+    color: red;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.description {
+    margin-top: 2%;
+    /* width: 50%; */
+    display: flex;
+    flex-direction: row;
+}
+
+#description_text {
+    margin-top: -10%;
+}
+
+.findme {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -25%;
+}
+
+#myexpertise {
+    margin-left: 18%;
+}
+
+i {
+    margin-top: 1%;
+    cursor: pointer;
+    font-size: 270%;
+}
+
+.fb {
+    margin: 1% 1% 0% -2.5%;
+}
+
+.insta {
+    margin: 0% 1% 0% 0%;
+}
+
+.ln {
+    margin: 0%;
+}
+
+.react {
+    margin: 0% 1% 0% 15%;
+}
+
+.node {
+    margin: 0% 1% 0% 0%;
+}
+
+.js {
+    margin: 0%;
+}
+
+#myimage {
+    width: 50%;
+    margin: -15% 0% 0% 5%;
+    border-radius: 3%;
+    /* height: 600px; */
+}
+
+/* Features  */
+.features {
+    margin: 20% 7% 0% 7%;
+}
+
+.features_heading {
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.whatido {
+    font-size: xxx-large;
+    font-weight: bolder;
+}
+
+.myskills {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-gap: 7%;
+}
+.myskillblock{
+    box-shadow: 5px 5px 5px 0px rgb(184, 183, 183);
+    cursor: pointer;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:5%;
+    border-radius: 5%;
+}
+.myskillblock:hover{
+    background-color:black;
+    color: white;
+}
+
+.myskillheading{
+    margin-top: 3%;
+}
+
+/* My projects  */
+.projects{
+    margin: 10% 7% 0% 7%;
+}
+.myprojects {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    grid-gap: 7%;
+}
+.project_description{
+    font-size: 105%;
+}
+.projects_heading{
+    text-align: center;
+    font-size: 450%;
+    font-family: 'Rubik', sans-serif;
+}
+.myprojectblock:hover{
+    /* background-color:black; */
+    border: black 1px solid;
+    /* color: white; */
+}
+.myprojectblock{
+    box-shadow: 5px 5px 5px 0px rgb(184, 183, 183);
+    cursor: pointer;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:5%;
+    border-radius: 5%;
+}
+.notes_image{
+    height: 200px;
+}
+.tictactoe_image{
+    height: 200px;
+}
+.calculator_image{
+    height: 200px;
+}
+.makeup_image{
+    height: 200px;
+}
+.todolist_image{
+    height: 200px;
+}
+
+/* resume */
+.resume{
+    margin:10% 7% 0% 7% ;
+}
+.resume_heading{
+    text-align: center;
+    font-size: 450%;
+    font-family: 'Rubik', sans-serif;
+}
+.development_skills{
+    margin-top: 5%;
+}
+.progress{
+    height: 10%;
+}
+.progress_bars{
+    border: 2px solid black;
+
+}
+.htmlbar{
+    margin-left: 3%;
+}
+.cssbar{
+    margin-left: 4.1%;
+}
+.jsbar{
+    margin-left: 0.7%;
+}
+.bootstrapbar{
+    margin-left: 0.8%;
+}
+.nodejsbar{
+    margin-left: 2%;
+}
+.expressjsbar{
+    margin-left: 1%;
+}
+.mongodbbar{
+    margin-left: 0.9%;
+}
+.wordpressbar{
+    margin-left: 0.7%;
+}
+.githubbar{
+    margin-left: 0.7%;
+}
+.reactbar{
+    margin-left: 2%;
+}
+
+/* CONTACT */
+.contact_firstheading{
+    text-align: center;
+    color: red;
+    margin-top: 7%;
+}
+.contact_secondheading{
+    text-align: center;
+    font-size: 450%;
+    font-family: 'Rubik', sans-serif;
+}
+.contact_image{
+    margin:4% 0% 0% 4%;
+    height: 300%;
+    width: 92%;
+}
+.contact_details{
+    margin: 2% 18% 0% 18%;
+    /* border: 2px solid black; */
+    background-color: #ecf0f3;
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px 0px rgb(184, 183, 183);
+    padding: 1.5% 0%;
+
+}
+.contact_name{
+    font-family: 'Rubik', sans-serif;
+}
+.details{
+    margin:3% 0% 0% 4%;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+    margin-top:5% ;
+}
+
+
+
+
+
+@media only screen and (max-width: 1000px) {
+    .findme {
+        margin-top: 10%;
+    }
+
+    .introduction {
+        margin-top: 25%;
+    }
+
+    .icons {
+        margin-left: -6.5%;
+    }
+    .myskills{
+        display: flex;
+        flex-direction: column;
+    }
+    .myskillblock{
+        margin-bottom: 10%;
+    }
+    .myprojects{
+        display: flex;
+        flex-direction: column;
+    }
+    .myprojectblock{
+        margin-bottom: 10%;
+    }
+    
+}
