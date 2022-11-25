@@ -305,16 +305,16 @@ i {
         margin-bottom: 10%;
     }
     .htmlbar{
-        margin-left: 6%;
+        margin-left: 10%;
     }
     .cssbar{
-        margin-left: 8%;
+        margin-left: 15%;
     }
     .jsbar{
         margin-left: 0.7%;
     }
     .bootstrapbar{
-        margin-left: 1%;
+        margin-left: 2%;
     }
     .nodejsbar{
         margin-left: 6%;
@@ -323,16 +323,16 @@ i {
         margin-left: 1%;
     }
     .mongodbbar{
-        margin-left: 0.9%;
+        margin-left: 2%;
     }
     .wordpressbar{
         margin-left: 1%;
     }
     .githubbar{
-        margin-left: 0.7%;
+        margin-left: 2%;
     }
     .reactbar{
-        margin-left: 5%;
+        margin-left: 8%;
     }
     
 }
