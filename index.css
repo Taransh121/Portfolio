@@ -169,6 +169,7 @@ i {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding:5%;
     border-radius: 5%;
+    text-align: center;
 }
 .notes_image{
     height: 200px;
