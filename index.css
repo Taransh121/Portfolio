@@ -304,5 +304,35 @@ i {
     .myprojectblock{
         margin-bottom: 10%;
     }
+    .htmlbar{
+        margin-left: 6%;
+    }
+    .cssbar{
+        margin-left: 8%;
+    }
+    .jsbar{
+        margin-left: 0.7%;
+    }
+    .bootstrapbar{
+        margin-left: 1%;
+    }
+    .nodejsbar{
+        margin-left: 6%;
+    }
+    .expressjsbar{
+        margin-left: 1%;
+    }
+    .mongodbbar{
+        margin-left: 0.9%;
+    }
+    .wordpressbar{
+        margin-left: 1%;
+    }
+    .githubbar{
+        margin-left: 0.7%;
+    }
+    .reactbar{
+        margin-left: 5%;
+    }
     
 }
