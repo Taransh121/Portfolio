@@ -308,16 +308,16 @@ i {
         margin-left: 10%;
     }
     .cssbar{
-        margin-left: 35%;
+        margin-left: 20%;
     }
     .jsbar{
         margin-left: 0.7%;
     }
     .bootstrapbar{
-        margin-left: 2%;
+        margin-left: 1.7%;
     }
     .nodejsbar{
-        margin-left: 6%;
+        margin-left: 5%;
     }
     .expressjsbar{
         margin-left: 1%;
@@ -329,10 +329,10 @@ i {
         margin-left: 1%;
     }
     .githubbar{
-        margin-left: 2%;
+        margin-left: 1.5%;
     }
     .reactbar{
-        margin-left: 8%;
+        margin-left: 7%;
     }
     
 }
