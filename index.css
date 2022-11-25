@@ -336,5 +336,10 @@ i {
     .reactbar{
         margin-left: 6%;
     }
+    #myimage{
+        height:300px ;
+        margin-top: 10%;
+
+    }
     
 }
