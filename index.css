@@ -60,7 +60,7 @@ li {
 
 .findme {
     font-family: 'Times New Roman', Times, serif;
-    margin-top: -25%;
+    margin-top: -8%;
 }
 
 #myexpertise {
@@ -99,14 +99,15 @@ i {
 
 #myimage {
     width: 50%;
-    margin: -15% 0% 0% 5%;
+    margin: -25% 0% 0% 5%;
     border-radius: 3%;
-    /* height: 600px; */
+
+    height: 500px;
 }
 
 /* Features  */
 .features {
-    margin: 20% 7% 0% 7%;
+    margin: 10% 7% 0% 7%;
 }
 
 .features_heading {
@@ -125,7 +126,7 @@ i {
     grid-gap: 7%;
 }
 .myskillblock{
-    box-shadow: 5px 5px 5px 0px rgb(184, 183, 183);
+    box-shadow: 0px 0px 15px 0px rgb(184, 183, 183);
     cursor: pointer;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding:5%;
@@ -163,7 +164,7 @@ i {
     /* color: white; */
 }
 .myprojectblock{
-    box-shadow: 5px 5px 5px 0px rgb(184, 183, 183);
+    box-shadow: 0px 0px 15px 0px rgb(184, 183, 183);
     cursor: pointer;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding:5%;
